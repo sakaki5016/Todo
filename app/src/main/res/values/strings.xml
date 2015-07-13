@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string name="no_notes">No Notes Yet</string>
+    <string name="menu_insert">Add Todo Item</string>
+    <string name="menu_delete">Delete Todo Item</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+    <string name="confirm">Todoの登録</string>
+    <string name="close">Todoの完了</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="date">Date</string>
+    <string name="dateSet">設定</string>
+
+</resources>
+
